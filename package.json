@@ -7,13 +7,15 @@
     "start": "vite",
     "build": "npm run lear && vite build",
     "lint": "eslint src/**/*.js",
-  "format": "prettier --write src/**/*.jsx",
-  "format:lint": "npm run format && npm run lint",
-  "clear": "rimraf dist .parcel-cache"
+    "format": "prettier --write src/**/*.jsx",
+    "format:lint": "npm run format && npm run lint",
+    "clear": "rimraf dist .parcel-cache"
   },
   "dependencies": {
+    "node-sass": "^7.0.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "scss-tokenizer": "^0.4.3"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
@@ -26,7 +28,8 @@
     "eslint-plugin-react": "^7.31.0",
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
-    "vite": "^3.0.2"
+    "vite": "^3.0.2",
+    "parcel": "2.7.0"
   },
   "babel": {
     "presets": [
