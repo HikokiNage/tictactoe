@@ -1,8 +1,13 @@
-18834
+18835
 61C:\Matyi\react\tictactoe\tictactoe\node_modules\language-tags133064092004870517 1
 67C:\Matyi\react\tictactoe\tictactoe\node_modules\css-tree\lib\syntax133064091956738972 1
 87C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\full\string\virtual\sup.js121436361000000000 0
 47C:\Matyi\react\tictactoe\tictactoe\node_modules133064094951030388 1
+69C:\Matyi\react\tictactoe\tictactoe\node_modules\dashdash\package.json133064092011940553 0
+75C:\Matyi\react\tictactoe\tictactoe\node_modules\esrecurse\gulpfile.babel.js121436361000000000 0
+85C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\src\libsass\src\context.cpp121436361000000000 0
+50C:\Matyi\react\tictactoe\tictactoe\src\helpers.jsx133068413540816393 0
+74C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\test\lowlevel.js121436361000000000 0
 63C:\Matyi\react\tictactoe\tictactoe\node_modules\json5\README.md121436361000000000 0
 75C:\Matyi\react\tictactoe\tictactoe\node_modules\react-dom\server.browser.js121436361000000000 0
 90C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint-plugin-react\lib\rules\no-unsafe.js121436361000000000 0
@@ -13,10 +18,10 @@
 94C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint-module-utils\node_modules\debug\node.js121436361000000000 0
 59C:\Matyi\react\tictactoe\tictactoe\node_modules\uri-js\dist133064091946159841 1
 86C:\Matyi\react\tictactoe\tictactoe\node_modules\read-pkg\node_modules\semver\README.md121436361000000000 0
+108C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased133064091962358981 1
 91C:\Matyi\react\tictactoe\tictactoe\node_modules\es-abstract\5\AbstractEqualityComparison.js121436361000000000 0
 54C:\Matyi\react\tictactoe\tictactoe\node_modules\abbrev133064092012660536 1
 86C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\actual\string\trim-end.js121436361000000000 0
-108C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased133064091962358981 1
 102C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint-plugin-jsx-a11y\lib\util\implicitRoles\tfoot.js121436361000000000 0
 66C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\_baseSet.js121436361000000000 0
 61C:\Matyi\react\tictactoe\tictactoe\node_modules\slash\license121436361000000000 0
@@ -78,7 +83,7 @@
 79C:\Matyi\react\tictactoe\tictactoe\node_modules\source-map\lib\binary-search.js131369414910000000 0
 73C:\Matyi\react\tictactoe\tictactoe\node_modules\balanced-match\LICENSE.md121436361000000000 0
 72C:\Matyi\react\tictactoe\tictactoe\node_modules\array-includes\README.md121436361000000000 0
-39C:\Matyi\react\tictactoe\tictactoe\dist133068383824274412 1
+39C:\Matyi\react\tictactoe\tictactoe\dist133068417834453348 1
 78C:\Matyi\react\tictactoe\tictactoe\node_modules\socks-proxy-agent\package.json133064092008360525 0
 56C:\Matyi\react\tictactoe\tictactoe\node_modules\escalade133064092011380520 1
 59C:\Matyi\react\tictactoe\tictactoe\node_modules\.bin\nanoid133064092014720523 0
@@ -96,7 +101,7 @@
 76C:\Matyi\react\tictactoe\tictactoe\node_modules\sshpk\lib\formats\rfc4253.js121436361000000000 0
 72C:\Matyi\react\tictactoe\tictactoe\node_modules\language-tags\lib\Tag.js130970318660000000 0
 76C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint\lib\rules\no-proto.js121436361000000000 0
-38C:\Matyi\react\tictactoe\tictactoe\src133064087085823030 1
+38C:\Matyi\react\tictactoe\tictactoe\src133068411798983786 1
 61C:\Matyi\react\tictactoe\tictactoe\node_modules\is-regex\test133064091955858995 1
 94C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\actual\typed-array\copy-within.js121436361000000000 0
 64C:\Matyi\react\tictactoe\tictactoe\node_modules\p-map\index.d.ts121436361000000000 0
@@ -180,7 +185,7 @@
 74C:\Matyi\react\tictactoe\tictactoe\node_modules\sshpk\lib\formats\pkcs8.js121436361000000000 0
 88C:\Matyi\react\tictactoe\tictactoe\node_modules\type-fest\source\fixed-length-array.d.ts121436361000000000 0
 85C:\Matyi\react\tictactoe\tictactoe\node_modules\smart-buffer\typings\smartbuffer.d.ts121436361000000000 0
-46C:\Matyi\react\tictactoe\tictactoe\src\App.jsx133064113846271743 0
+46C:\Matyi\react\tictactoe\tictactoe\src\App.jsx133068417832873342 0
 61C:\Matyi\react\tictactoe\tictactoe\node_modules\indent-string133064092010680520 1
 77C:\Matyi\react\tictactoe\tictactoe\node_modules\electron-to-chromium\index.js121436361000000000 0
 89C:\Matyi\react\tictactoe\tictactoe\node_modules\@babel\runtime-corejs3\helpers\esm\jsx.js121012626000000000 0
@@ -215,7 +220,7 @@
 107C:\Matyi\react\tictactoe\tictactoe\node_modules\@babel\runtime-corejs3\core-js-stable\instance\pad-start.js121012626000000000 0
 74C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\fp\isSafeInteger.js121436361000000000 0
 86C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint\lib\config\flat-config-array.js121436361000000000 0
-59C:\Matyi\react\tictactoe\tictactoe\src\components\Board.jsx133068382865915711 0
+59C:\Matyi\react\tictactoe\tictactoe\src\components\Board.jsx133068406845675401 0
 65C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\codeframe133064092004040526 1
 108C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc121436361000000000 0
 70C:\Matyi\react\tictactoe\tictactoe\node_modules\fast-glob\out\managers133064091950817647 1
@@ -253,13 +258,6 @@
 67C:\Matyi\react\tictactoe\tictactoe\node_modules\type-fest\base.d.ts121436361000000000 0
 90C:\Matyi\react\tictactoe\tictactoe\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in121436361000000000 0
 59C:\Matyi\react\tictactoe\tictactoe\node_modules\@ampproject133064091986594550 1
-82C:\Matyi\react\tictactoe\tictactoe\node_modules\tweetnacl\PULL_REQUEST_TEMPLATE.md131260969540000000 0
-61C:\Matyi\react\tictactoe\tictactoe\node_modules\.bin\svgo.ps1133064092015160542 0
-63C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\first.js121436361000000000 0
-92C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\src\libsass\script\ci-install-deps121436361000000000 0
-77C:\Matyi\react\tictactoe\tictactoe\node_modules\es-abstract\2017\IsInteger.js121436361000000000 0
-77C:\Matyi\react\tictactoe\tictactoe\node_modules\@babel\runtime\helpers\tdz.js121012626000000000 0
-60C:\Matyi\react\tictactoe\tictactoe\node_modules\babel-eslint133064092004900514 1
 62C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\rest.js121436361000000000 0
 97C:\Matyi\react\tictactoe\tictactoe\node_modules\wrap-ansi\node_modules\color-convert\CHANGELOG.md121436361000000000 0
 62C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-compat133064092007100530 1
@@ -591,6 +589,13 @@
 66C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\uniqWith.js121436361000000000 0
 57C:\Matyi\react\tictactoe\tictactoe\node_modules\aws-sign2133064092012180521 1
 72C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\_isFlattenable.js121436361000000000 0
+82C:\Matyi\react\tictactoe\tictactoe\node_modules\tweetnacl\PULL_REQUEST_TEMPLATE.md131260969540000000 0
+61C:\Matyi\react\tictactoe\tictactoe\node_modules\.bin\svgo.ps1133064092015160542 0
+63C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\first.js121436361000000000 0
+92C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\src\libsass\script\ci-install-deps121436361000000000 0
+77C:\Matyi\react\tictactoe\tictactoe\node_modules\es-abstract\2017\IsInteger.js121436361000000000 0
+77C:\Matyi\react\tictactoe\tictactoe\node_modules\@babel\runtime\helpers\tdz.js121012626000000000 0
+60C:\Matyi\react\tictactoe\tictactoe\node_modules\babel-eslint133064092004900514 1
 71C:\Matyi\react\tictactoe\tictactoe\node_modules\type-check\lib\check.js121436361000000000 0
 57C:\Matyi\react\tictactoe\tictactoe\node_modules\quick-lru133064092009090541 1
 83C:\Matyi\react\tictactoe\tictactoe\node_modules\tsconfig-paths\lib\mapping-entry.js132924496010000000 0
@@ -2194,18 +2199,18 @@
 88C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint\lib\rules\prefer-destructuring.js121436361000000000 0
 57C:\Matyi\react\tictactoe\tictactoe\node_modules\picomatch133064092009190534 1
 87C:\Matyi\react\tictactoe\tictactoe\node_modules\htmlparser2\lib\WritableStream.d.ts.map121436361000000000 0
-70C:\Matyi\react\tictactoe\tictactoe\node_modules\postcss\lib\input.d.ts121436361000000000 0
-78C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint-config-airbnb\.eslintrc121436361000000000 0
-66C:\Matyi\react\tictactoe\tictactoe\node_modules\is-weakref\LICENSE121436361000000000 0
-55C:\Matyi\react\tictactoe\tictactoe\node_modules\postcss133064092008420526 1
-62C:\Matyi\react\tictactoe\tictactoe\node_modules\glob\README.md121436361000000000 0
-69C:\Matyi\react\tictactoe\tictactoe\node_modules\yargs\locales\fr.json121436361000000000 0
-67C:\Matyi\react\tictactoe\tictactoe\node_modules\ajv\dist\ajv.min.js121436361000000000 0
-89C:\Matyi\react\tictactoe\tictactoe\node_modules\tsconfig-paths\lib\match-path-sync.js.map132924496010000000 0
 89C:\Matyi\react\tictactoe\tictactoe\node_modules\tsconfig-paths\lib\tsconfig-loader.js.map132924496010000000 0
 85C:\Matyi\react\tictactoe\tictactoe\node_modules\uri-js\dist\esnext\schemes\wss.js.map121436361000000000 0
 52C:\Matyi\react\tictactoe\tictactoe\node_modules\svgo133064092007990533 1
 78C:\Matyi\react\tictactoe\tictactoe\node_modules\type-fest\ts41\camel-case.d.ts121436361000000000 0
+62C:\Matyi\react\tictactoe\tictactoe\node_modules\glob\README.md121436361000000000 0
+69C:\Matyi\react\tictactoe\tictactoe\node_modules\yargs\locales\fr.json121436361000000000 0
+67C:\Matyi\react\tictactoe\tictactoe\node_modules\ajv\dist\ajv.min.js121436361000000000 0
+89C:\Matyi\react\tictactoe\tictactoe\node_modules\tsconfig-paths\lib\match-path-sync.js.map132924496010000000 0
+70C:\Matyi\react\tictactoe\tictactoe\node_modules\postcss\lib\input.d.ts121436361000000000 0
+78C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint-config-airbnb\.eslintrc121436361000000000 0
+66C:\Matyi\react\tictactoe\tictactoe\node_modules\is-weakref\LICENSE121436361000000000 0
+55C:\Matyi\react\tictactoe\tictactoe\node_modules\postcss133064092008420526 1
 79C:\Matyi\react\tictactoe\tictactoe\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 53C:\Matyi\react\tictactoe\tictactoe\node_modules\which133064092006940527 1
 70C:\Matyi\react\tictactoe\tictactoe\node_modules\tar\lib\write-entry.js121436361000000000 0
@@ -4148,11 +4153,6 @@
 80C:\Matyi\react\tictactoe\tictactoe\node_modules\fast-glob\out\utils\pattern.d.ts121436361000000000 0
 98C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js121436361000000000 0
 75C:\Matyi\react\tictactoe\tictactoe\node_modules\text-table\test\dotalign.js130127405880000000 0
-76C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\watcher\src\Event.hh121436361000000000 0
-67C:\Matyi\react\tictactoe\tictactoe\node_modules\esutils\LICENSE.BSD121436361000000000 0
-98C:\Matyi\react\tictactoe\tictactoe\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT121436361000000000 0
-100C:\Matyi\react\tictactoe\tictactoe\node_modules\meow\node_modules\type-fest\source\partial-deep.d.ts121436361000000000 0
-77C:\Matyi\react\tictactoe\tictactoe\node_modules\es-abstract\2020\ToBoolean.js121436361000000000 0
 83C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\features\array\join.js121436361000000000 0
 57C:\Matyi\react\tictactoe\tictactoe\node_modules\svgo\dist133064091952868963 1
 85C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\modules\es.array.some.js121436361000000000 0
@@ -7314,10 +7314,6 @@
 69C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\test\cli.js121436361000000000 0
 81C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\test\downloadoptions.js121436361000000000 0
 79C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\full\math\scale.js121436361000000000 0
-69C:\Matyi\react\tictactoe\tictactoe\node_modules\dashdash\package.json133064092011940553 0
-75C:\Matyi\react\tictactoe\tictactoe\node_modules\esrecurse\gulpfile.babel.js121436361000000000 0
-85C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\src\libsass\src\context.cpp121436361000000000 0
-74C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\test\lowlevel.js121436361000000000 0
 100C:\Matyi\react\tictactoe\tictactoe\node_modules\@babel\runtime-corejs3\helpers\wrapAsyncGenerator.js121012626000000000 0
 70C:\Matyi\react\tictactoe\tictactoe\node_modules\node-sass\test\scripts133064091968958985 1
 82C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\stable\array\slice.js121436361000000000 0
@@ -8259,6 +8255,11 @@
 90C:\Matyi\react\tictactoe\tictactoe\node_modules\fast-json-stable-stringify\test\to-json.js121436361000000000 0
 79C:\Matyi\react\tictactoe\tictactoe\node_modules\es-abstract\2016\HasProperty.js121436361000000000 0
 100C:\Matyi\react\tictactoe\tictactoe\node_modules\meow\node_modules\type-fest\source\package-json.d.ts121436361000000000 0
+76C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\watcher\src\Event.hh121436361000000000 0
+67C:\Matyi\react\tictactoe\tictactoe\node_modules\esutils\LICENSE.BSD121436361000000000 0
+98C:\Matyi\react\tictactoe\tictactoe\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT121436361000000000 0
+100C:\Matyi\react\tictactoe\tictactoe\node_modules\meow\node_modules\type-fest\source\partial-deep.d.ts121436361000000000 0
+77C:\Matyi\react\tictactoe\tictactoe\node_modules\es-abstract\2020\ToBoolean.js121436361000000000 0
 102C:\Matyi\react\tictactoe\tictactoe\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json121436361000000000 0
 87C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\internals\function-bind.js121436361000000000 0
 98C:\Matyi\react\tictactoe\tictactoe\node_modules\meow\node_modules\type-fest\source\promisable.d.ts121436361000000000 0
@@ -9962,7 +9963,7 @@
 67C:\Matyi\react\tictactoe\tictactoe\node_modules\dotenv\CHANGELOG.md121436361000000000 0
 98C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\modules\esnext.symbol.metadata-key.js121436361000000000 0
 108C:\Matyi\react\tictactoe\tictactoe\node_modules\jsx-ast-utils\lib\values\expressions\AssignmentExpression.js121436361000000000 0
-57C:\Matyi\react\tictactoe\tictactoe\dist\index.b4b6dfad.js133068383824224432 0
+57C:\Matyi\react\tictactoe\tictactoe\dist\index.b4b6dfad.js133068417834393341 0
 104C:\Matyi\react\tictactoe\tictactoe\node_modules\jsx-ast-utils\lib\values\expressions\BinaryExpression.js121436361000000000 0
 85C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint\lib\rules\init-declarations.js121436361000000000 0
 123C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node121436361000000000 0
@@ -15696,7 +15697,7 @@
 96C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\actual\typed-array\float32-array.js121436361000000000 0
 91C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\actual\typed-array\for-each.js121436361000000000 0
 87C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\actual\typed-array\from.js121436361000000000 0
-50C:\Matyi\react\tictactoe\tictactoe\dist\index.html133064093563693752 0
+50C:\Matyi\react\tictactoe\tictactoe\dist\index.html133068413530591893 0
 94C:\Matyi\react\tictactoe\tictactoe\node_modules\aria-query\lib\etc\roles\dpub\docErrataRole.js121436361000000000 0
 88C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\actual\typed-array\index.js121436361000000000 0
 94C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\actual\typed-array\int16-array.js121436361000000000 0
@@ -16732,7 +16733,7 @@
 92C:\Matyi\react\tictactoe\tictactoe\node_modules\aria-query\lib\etc\roles\literal\treeRole.js121436361000000000 0
 103C:\Matyi\react\tictactoe\tictactoe\node_modules\aria-query\lib\etc\roles\dpub\docAcknowledgmentsRole.js121436361000000000 0
 96C:\Matyi\react\tictactoe\tictactoe\node_modules\aria-query\lib\etc\roles\dpub\docAppendixRole.js121436361000000000 0
-62C:\Matyi\react\tictactoe\tictactoe\dist\index.ab15d688.css.map133064098596281598 0
+62C:\Matyi\react\tictactoe\tictactoe\dist\index.ab15d688.css.map133068413530111594 0
 102C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\reporter-cli\node_modules\ansi-styles\index.js121436361000000000 0
 97C:\Matyi\react\tictactoe\tictactoe\node_modules\aria-query\lib\etc\roles\dpub\docBibliorefRole.js121436361000000000 0
 79C:\Matyi\react\tictactoe\tictactoe\node_modules\@parcel\watcher\src\Debounce.hh121436361000000000 0
@@ -18831,5 +18832,5 @@
 69C:\Matyi\react\tictactoe\tictactoe\node_modules\.bin\sshpk-verify.ps1133064092015270529 0
 57C:\Matyi\react\tictactoe\tictactoe\node_modules\.bin\svgo133064092015160542 0
 61C:\Matyi\react\tictactoe\tictactoe\node_modules\.bin\vite.ps1133064092015900513 0
-58C:\Matyi\react\tictactoe\tictactoe\dist\index.ab15d688.css133064098596251606 0
-61C:\Matyi\react\tictactoe\tictactoe\dist\index.b4b6dfad.js.map133068383824264409 0
+58C:\Matyi\react\tictactoe\tictactoe\dist\index.ab15d688.css133068413530081627 0
+61C:\Matyi\react\tictactoe\tictactoe\dist\index.b4b6dfad.js.map133068417834443347 0
