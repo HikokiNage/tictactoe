@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "npm run clear && parcel build index.html",
     "lint": "eslint src/**/*.js",
     "format": "prettier --write src/**/*.jsx",
     "format:lint": "npm run format && npm run lint",
@@ -15,11 +15,9 @@
     "node-sass": "^7.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "sass": "^1.54.7",
     "scss-tokenizer": "^0.4.3"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.7.0",
     "babel-eslint": "^10.1.0",
     "babel-preset-nano-react-app": "^0.1.0",
     "eslint": "^8.23.0",
@@ -30,7 +28,6 @@
     "eslint-plugin-react": "^7.31.1",
     "parcel": "2.7.0",
     "prettier": "^2.7.1",
-    "process": "^0.11.10",
     "rimraf": "^3.0.2",
     "vite": "^3.0.2"
   },

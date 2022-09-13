@@ -41,7 +41,7 @@
 102C:\Matyi\react\tictactoe\tictactoe\node_modules\eslint-plugin-jsx-a11y\lib\util\implicitRoles\tfoot.js121436361000000000 0
 66C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\_baseSet.js121436361000000000 0
 61C:\Matyi\react\tictactoe\tictactoe\node_modules\slash\license121436361000000000 0
-47C:\Matyi\react\tictactoe\tictactoe\package.json133064094952840383 0
+47C:\Matyi\react\tictactoe\tictactoe\package.json133075360032935784 0
 87C:\Matyi\react\tictactoe\tictactoe\node_modules\core-js-pure\internals\engine-is-ios.js121436361000000000 0
 64C:\Matyi\react\tictactoe\tictactoe\node_modules\lodash\fp\any.js121436361000000000 0
 62C:\Matyi\react\tictactoe\tictactoe\node_modules\domelementtype133064092011940553 1
